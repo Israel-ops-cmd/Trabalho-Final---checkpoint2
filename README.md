@@ -1,6 +1,7 @@
 Projeto Sistema de Controlador de Viagens - LP1 (Checkpoint 2)
 
 . Descrição
+
 Este é um sistema de controle de trânsito desenvolvido para a disciplina de Linguagem de Programação 1 (LP1) pela UFRN. O projeto permite simular viagens e o gerenciamento de transportes, trajetos, passageiros e cidades. Ele possui funcionalidades de registro de partidas e chegadas, adição de passageiros, cálculo de rotas e relatórios sobre cidades mais visitadas.
 
 . Funcionalidades
