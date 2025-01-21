@@ -24,3 +24,8 @@ Este é um sistema de controle de trânsito desenvolvido para a disciplina de Li
 - Compile o programa.
 - Execute o arquivo compilado.
 - Interaja com o sistema conforme desejado, registrando cidades, trajetos, transportes e passageiros, e gerando relatórios.
+
+
+.*Link demonstrando a solução rodando*
+
+- https://youtu.be/E2F2w-qE6N4
